@@ -99,22 +99,5 @@ Messaging Guide
 
 Developer Sandbox Setup
 
-Notes
-This project is for development/testing purposes only.
 
-Do not expose real Slack tokens or install the bot in production workspaces without proper security measures.
 
-For HTTPS testing and Slack callbacks, use ngrok or a similar tunneling tool.
-
-License
-MIT License
-
-yaml
-Copy code
-
----
-
-If you want, I can also **add a small diagram in the README** showing the flow:  
-`Browser → OAuth → Bot Token → API Endpoints → Slack`. This makes it more visually clear for anyone reviewing your GitHub project.  
-
-Do you want me to do that?
